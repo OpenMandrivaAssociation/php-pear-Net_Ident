@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.0
-Release:	15
+Release:	16
 Summary:	Identification protocol implementation
 License:	PHP License
 Group:		Development/PHP
